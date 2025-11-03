@@ -4,8 +4,7 @@
 
 ### A simple SwiftUI application to manage and display your favorite quotes.  
 
-<img src="![f147099d-bf7c-4cb7-aa8e-7466a73f785f](https://github.com/user-attachments/assets/5120efc7-97a7-44dd-8bab-2901fa084737)
-" alt="QuotesApp Preview" width="400" style="border-radius:10px; margin-top:10px;">  
+<img src="image.jpg" alt="QuotesApp Preview" width="400" style="border-radius:10px; margin-top:10px;">  
 
 ---
 
