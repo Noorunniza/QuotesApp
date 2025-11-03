@@ -42,8 +42,6 @@ It allows users to:
 
 ---
 
-## 👩‍💻 Developer  
-**Name:** Noorunniza E Y  
  
 
 </div>
