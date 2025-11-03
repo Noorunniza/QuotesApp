@@ -22,7 +22,8 @@ It allows users to:
 ✅ Delete unwanted quotes  
 ✅ Clean UI with SwiftUI and MVVM  
 
-<img src="image.jpg" alt="QuotesApp Preview" width="400" style="border-radius:10px; margin-top:10px;">  
+<img src="image.jpg" alt="QuotesApp Preview" height="180" style="border-radius:10px; margin-top:10px;">
+
 ---
 
 ## 🛠️ Technologies Used  
